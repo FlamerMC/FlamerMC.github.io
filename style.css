@@ -1,0 +1,27 @@
+body{
+  background-color: black;
+}
+.main {
+  position: absolute;
+  width: 300px;
+  height: 500px;
+  z-index: 15;
+  top: 30%;
+  left: 50%;
+  margin: -100px 0 0 -150px;
+  background: white;
+  border-radius: 12.5px;
+}
+.container{
+  width: 80%;
+  height: 80px;
+  background-color: #000000;
+  border-radius: 12.5px;
+}
+.border{
+  height: 20px;
+}
+#Myname{
+  font-size: 40px;
+  color: red;
+  font-family:monospace;
