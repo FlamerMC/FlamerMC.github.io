@@ -1,0 +1,16 @@
+body {
+    font-family: monospace;
+    background-color: #0f0801;
+    color: white;
+    text-align: center;
+}
+
+.Box1 {
+    border-style: double;
+    border-radius: 4px;
+    border-color: orange;
+    width: 200px;
+    height: auto;
+    font-size: auto;
+    text-decoration: none;
+}
